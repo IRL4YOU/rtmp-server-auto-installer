@@ -7,6 +7,7 @@ Die Version `v15` wurde bei einer Neuinstallation auf Ubuntu 26.04 LTS und Debia
 ## Praxisvideo
 
 - [Praxisvideo auf YouTube](https://youtu.be/e_WPA0VonDw) – Installation von RTMP und SRTLA; dieses Repository enthält ausschließlich den RTMP-Installer
+- [Anleitung auf irl4you.de](https://irl4you.de/rtmp-server-einrichten.html) – RTMP-Server einrichten
 
 ## Inhalt
 
